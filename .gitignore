@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Documentation and test files (project-specific)
+*_GUIDE.txt
+*_STEPS.txt
+*_REPORT.txt
+test_*.py
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
